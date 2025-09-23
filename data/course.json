@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
+  "legacy_uid": "c357a671-dd92-95f7-a0b2-debd0d4d56ab",
+  "instructors": {
+    "content": [
+      "5659ebe3-8ec9-fc53-ab24-a4359614b5cc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "eba5e256-2f53-ef09-cd47-e71fd300301f",
+    "website": "15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010"
+  },
+  "course_title": "U-Lab: Leading Profound Innovation for a More Sustainable World",
+  "course_description": "_15.975 U-Lab: Leading Profound Innovation for a More Sustainable World_ is an interactive and experiential class about leading profound innovation for pioneering a more sustainable economy and society. The class is organized around personal reflection practices, relational practices, and societal practices. It focuses on the intertwined relationship between the evolution of capitalism, multi-stakeholder innovation, and presencing.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.975",
+  "course_image_thumbnail": {
+    "content": "9789af05-9b7f-e47f-e057-5acb5a897a9c",
+    "website": "15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010"
+  },
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "5bb2f6e6-9391-4dc1-9b96-7c3394659c7e",
+  "site_short_id": "15.975-fall-2010",
+  "site_url_path": "courses/15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010",
+  "title": "Course Metadata"
+}
