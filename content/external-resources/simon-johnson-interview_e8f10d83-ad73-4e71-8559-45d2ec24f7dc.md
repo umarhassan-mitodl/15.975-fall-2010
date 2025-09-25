@@ -1,0 +1,10 @@
+---
+content_type: external-resource
+external_url: https://web.archive.org/web/20100127204910/http://www.tc.presencing.com/posts/simon-johnson-interview
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: Simon Johnson Interview
+uid: e8f10d83-ad73-4e71-8559-45d2ec24f7dc
+wayback_url: ''
+---

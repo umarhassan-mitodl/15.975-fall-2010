@@ -1,0 +1,43 @@
+leftnav:
+- identifier: 016d876f-ff40-4505-995e-6b342a0b5813
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8efc3cfd-fbe4-7016-4592-7e1c3ebbebac
+  name: Class Sessions
+  pageRef: /pages/class-sessions/
+  weight: 20
+- identifier: f5268b01-e5f6-aae0-298c-27ffa9194362
+  name: Introduction to Theory U
+  pageRef: /pages/class-sessions/session1
+  parent: 8efc3cfd-fbe4-7016-4592-7e1c3ebbebac
+  weight: 30
+- identifier: 172d4a55-c8a9-110f-34c3-676b9665e022
+  name: The Current Transformation of Global Capitalism
+  pageRef: /pages/class-sessions/session2
+  parent: 8efc3cfd-fbe4-7016-4592-7e1c3ebbebac
+  weight: 40
+- identifier: 33fa04ee-d0f0-77cf-4baf-d211e57abc15
+  name: User-Centered Design and Prototyping
+  pageRef: /pages/class-sessions/session3
+  parent: 8efc3cfd-fbe4-7016-4592-7e1c3ebbebac
+  weight: 50
+- identifier: 057cd2dd-0664-78a7-8227-3cc6896ed9b1
+  name: Define Prototyping Idea
+  pageRef: /pages/class-sessions/session4
+  parent: 8efc3cfd-fbe4-7016-4592-7e1c3ebbebac
+  weight: 60
+- identifier: 863baa1f-ee5f-ebfc-9d7b-5bcfd9f1163c
+  name: Prototyping Review
+  pageRef: /pages/class-sessions/session5
+  parent: 8efc3cfd-fbe4-7016-4592-7e1c3ebbebac
+  weight: 70
+- identifier: 3e2859a1-7ca7-a3ef-b79c-57c0deb19967
+  name: Crystallization of Key Learnings
+  pageRef: /pages/class-sessions/session6
+  parent: 8efc3cfd-fbe4-7016-4592-7e1c3ebbebac
+  weight: 80
+- identifier: d4e1cf0e-eaa6-c085-7c19-ac9b3c978f6b
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 90
