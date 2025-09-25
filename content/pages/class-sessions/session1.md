@@ -15,7 +15,7 @@ uid: f5268b01-e5f6-aae0-298c-27ffa9194362
 
 ### Pre-reading
 
-Scharmer, C. Otto. "The Blind Spot of Institutional Leadership: How to Create Deep Innovation Through Moving From Egosystem to Ecosystem Awareness." Paper prepared for World Economic Forum, Annual Meeting of the New Champions 2010, Tianjin, People's Republic of China, September 2010. ({{% resource_link "6db3778c-dd06-4198-a106-c12be48bb424" "PDF" %}})
+Scharmer, C. Otto. "The Blind Spot of Institutional Leadership: How to Create Deep Innovation Through Moving From Egosystem to Ecosystem Awareness." Paper prepared for World Economic Forum, Annual Meeting of the New Champions 2010, Tianjin, People's Republic of China, September 2010. ([PDF](https://www.nesacenter.org/uploaded/board/UTheory/Blind_spot_of_institutional_leadership.pdf))
 
 ———. "Introduction." In *Theory U: Leading From the Future As It Emerges*. San Francisco, CA: Berrett-Koehler, 2009. ISBN: 9781576757635.
 
@@ -25,11 +25,11 @@ Scharmer, C. Otto. "The Blind Spot of Institutional Leadership: How to Create De
 
 ### Video Clips
 
-"{{% resource_link "9c7706db-9b56-4b34-92d4-0414bc0b108c" "Nic Marks Discusses the Happy Planet Index at TEDGlobal" %}}." August 30, 2010. The New Economics Foundation (NEF).
+"[Nic Marks Discusses the Happy Planet Index at TEDGlobal](https://www.ted.com/talks/nic_marks_the_happy_planet_index)." August 30, 2010. The New Economics Foundation (NEF).
 
-globaloneness. "Riane Eisler: Caring Economics." October 17, 2007. YouTube. {{% resource_link "8855bd5b-3c6f-47c7-87bc-8317b787968e" "http://www.youtube.com/watch?v=USUeF4YauF8&feature=player_embedded" %}}.
+globaloneness. "Riane Eisler: Caring Economics." October 17, 2007. YouTube. [http://www.youtube.com/watch?v=USUeF4YauF8&feature=player_embedded](http://www.youtube.com/watch?v=USUeF4YauF8&feature=player_embedded).
 
-GenerationWe. "Generation WE: The Movement Begins…" October 22, 2008. YouTube. {{% resource_link "00de1e51-4a6d-454a-aa01-5a025f440239" "http://www.youtube.com/watch?v=vknHKTy1MLY" %}}.
+GenerationWe. "Generation WE: The Movement Begins…" October 22, 2008. YouTube. [http://www.youtube.com/watch?v=vknHKTy1MLY](http://www.youtube.com/watch?v=vknHKTy1MLY).
 
 Session Introduction
 

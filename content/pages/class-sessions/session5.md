@@ -18,7 +18,7 @@ Preparation
 
 Scharmer, C. Otto. "Epilogue." In _Theory U: Leading From the Future As It_ _Emerges_. San Francisco, CA: Berrett-Koehler, 2009. ISBN: 9781576757635.
 
-Jiménez, Juan Ramón. "{{% resource_link "dc0368c3-5099-4ae0-a115-b7d62e2c0677" "I Am Not I" %}}." Poetry Foundation.
+Jiménez, Juan Ramón. "[I Am Not I](http://www.poetryfoundation.org/archive/poem.html?id=182343)." Poetry Foundation.
 
 In-Class Practice
 -----------------

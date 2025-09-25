@@ -16,23 +16,23 @@ uid: 172d4a55-c8a9-110f-34c3-676b9665e022
 
 ### Pre-reading
 
-Scharmer, C. Otto. "{{% resource_link "a4802b74-881a-429d-a0a3-3ead139e6b49" "Seven Acupuncture Points for Shifting Capitalism to Create a Regenerative Ecosystem Economy" %}}." *Oxford Leadership Journal* 1, no. 3 (2010). 
+Scharmer, C. Otto. "[Seven Acupuncture Points for Shifting Capitalism to Create a Regenerative Ecosystem Economy](https://www.researchgate.net/publication/327319391_Seven_Acupuncture_Points_for_Shifting_Capitalism_to_Create_a_Regenerative_Ecosystem_Economy)." *Oxford Leadership Journal* 1, no. 3 (2010). 
 
 ———. "Individual Actions." Chapter 16 in *Theory U: Leading From the Future As It Emerges*. San Francisco, CA: Berrett-Koehler, 2009. ISBN: 9781576757635.
 
-Bird, Kelvy. "{{% resource_link "e8f10d83-ad73-4e71-8559-45d2ec24f7dc" "Simon Johnson Interview" %}}." Transforming Capitalism. Presencing Institute, January 15, 2010.
+Bird, Kelvy. "[Simon Johnson Interview](https://web.archive.org/web/20100127204910/http://www.tc.presencing.com/posts/simon-johnson-interview)." Transforming Capitalism. Presencing Institute, January 15, 2010.
 
-Johnson, Simon. "{{% resource_link "1c51f72a-955b-4d0f-b1c7-c916c4acb476" "The Quiet Coup" %}}." *Atlantic Magazine*, May 2009.
+Johnson, Simon. "[The Quiet Coup](http://www.theatlantic.com/magazine/archive/2009/05/the-quiet-coup/7364/)." *Atlantic Magazine*, May 2009.
 
-"{{% resource_link "0b5dd52d-d877-483d-a5c7-e836a09502ab" "BALLE Community of Practice Immersion" %}}." Business Alliance for Local Living Economies.
+"[BALLE Community of Practice Immersion](http://www.livingeconomies.org/immersion-program#Basics)." Business Alliance for Local Living Economies.
 
 ### Video Clips
 
-theRSAorg. "Crises of Capitalism." June 28, 2010. YouTube. {{% resource_link "961da804-84b0-4559-b807-cbc3ef784d97" "http://www.youtube.com/watch?v=qOP2V_np2c0" %}}.
+theRSAorg. "Crises of Capitalism." June 28, 2010. YouTube. [http://www.youtube.com/watch?v=qOP2V_np2c0](http://www.youtube.com/watch?v=qOP2V_np2c0.).
 
-malekanoms. "Quantitative Easing Explained." November 11, 2010. YouTube. {{% resource_link "c6191e7e-4066-42c4-a62b-9746b4fe4a76" "http://www.youtube.com/watch?v=PTUY16CkS-k" %}}.
+malekanoms. "Quantitative Easing Explained." November 11, 2010. YouTube. [http://www.youtube.com/watch?v=PTUY16CkS-k](http://www.youtube.com/watch?v=PTUY16CkS-k.).
 
-{{% resource_link "c64a1cd6-f7db-4e41-b227-277ab9aff2f3" "Michelle Long, Executive Director, BALLE, Charleston, South Carolina, May 21, 2010" %}}
+[Michelle Long, Executive Director, BALLE, Charleston, South Carolina, May 21, 2010](https://vimeo.com/13889267)
 
 ## In-Class Practice
 
