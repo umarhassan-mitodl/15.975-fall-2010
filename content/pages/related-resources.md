@@ -4,8 +4,6 @@ description: This section contains an introduction to Theory U and the Presencin
   Institute, a global community of individuals, institutions, and initiatives that
   apply and advance the U process of presencing to collectively create profound innovation
   and change.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
