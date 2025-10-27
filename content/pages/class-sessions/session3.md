@@ -22,7 +22,7 @@ Scharmer, C. Otto. "Conversational Actions." Chapter 17 in *Theory U: Leading Fr
 
 ### Video Clips
 
-Hagel III, John. "[Collaborative Innovation and a Pull Economy](http://edgeperspectives.com/blog/2010/04/jsb-at-stanford-collaborative-innovation-and-a-pull-economy.html)." April 17, 2010. Edge Prespectives.
+Hagel III, John. "{{% resource_link "6b752220-368a-4075-a9f5-eba9f70541a7" "Collaborative Innovation and a Pull Economy" %}}." April 17, 2010. Edge Prespectives.
 
 ## In-Class Practice
 
